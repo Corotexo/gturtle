@@ -1,6 +1,6 @@
 # gturtle
 
-#### Fehlend vom original:
+## Fehlend vom original:
 
 #### (Wahrscheinlich) möglich:
 makeColor()
