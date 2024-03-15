@@ -137,6 +137,10 @@ def setY(y) -> None:
     tr.penup()
     tr.sety(y)
     tr.pendown()
+
+def moveTo(x, y) -> None:
+    tr.goto(x, y)
+    return
   
 def update() -> None:
     t.update()
